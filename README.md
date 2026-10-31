@@ -49,7 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Arifi&show_icons=true&theme=transparent&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Arifi&layout=compact&theme=transparent&hide_border=true" width="48%" />
 </p>
-
-<p align="center">
-  <i>Designed with simplicity. Driven by curiosity.</i>
-</p>
