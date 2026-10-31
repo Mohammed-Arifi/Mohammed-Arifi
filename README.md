@@ -40,12 +40,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,linux&perline=6" />
 </p>
-
----
-
-<h2 align="center">GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Arifi&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Arifi&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</p>
