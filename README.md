@@ -47,9 +47,10 @@ I enjoy exploring how things work, learning new technologies and developing prac
 </div>
 
 
+<div align="center">
 
 *Learning something new. Building something meaningful.*
-
+<br/>
 <sub>© 2026 Mohammed Arifi</sub>
 
 </div>
