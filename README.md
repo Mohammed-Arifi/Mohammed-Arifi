@@ -1,42 +1,73 @@
-<h1 align="center">Mohammed Arifi</h1>
+<div align="center">
 
-<h3 align="center">Developer | Cybersecurity Learner | CSE Student</h3>
+# Mohammed Arifi
 
-<p align="center">
-  B.Tech Computer Science & Engineering (IoT)<br>
-  MGM's School of Engineering and Technology
-</p>
+### Computer Science Student · Developer · Cybersecurity Enthusiast
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-arifi-79b80b380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mohammed.arifi.8/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:arifimohammed774@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+B.Tech CSE (IoT)  
+MGM's School of Engineering and Technology
 
----
+<br/>
 
-<h2 align="center">About Me</h2>
+<a href="https://www.linkedin.com/in/mohammed-arifi-79b80b380/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/mohammed.arifi.8/">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:arifimohammed774@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<p align="center">
-  Passionate about technology, programming and cybersecurity.<br>
-  Learning, experimenting and building something new every day.
-</p>
+<br/><br/>
 
-<h2 align="center">What I'm Exploring</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 
-<p align="center">
-  Cybersecurity &nbsp; • &nbsp; Internet of Things<br>
-  Software Development &nbsp; • &nbsp; Programming
-</p>
+</div>
 
-<h2 align="center">Tech Stack</h2>
+## About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,linux&perline=6" />
-</p>
+I'm Mohammed, a Computer Science student interested in technology, programming and cybersecurity.
+
+I enjoy exploring how things work, learning new technologies and developing practical skills through hands-on projects.
+
+## Areas of Interest
+
+- Cybersecurity
+- Internet of Things (IoT)
+- Software Development
+- Programming & Problem Solving
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,linux&perline=6" />
+
+</div>
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Arifi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Arifi&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/Mohammed-Arifi">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-Arifi&style=flat-square&color=grey&label=PROFILE+VIEWS" />
+</a>
+
+<br/><br/>
+
+*Learning something new. Building something meaningful.*
+
+<sub>© 2026 Mohammed Arifi</sub>
+
+</div>
