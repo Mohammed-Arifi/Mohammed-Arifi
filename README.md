@@ -19,7 +19,7 @@ MGM's School of Engineering and Technology
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%" />
 
