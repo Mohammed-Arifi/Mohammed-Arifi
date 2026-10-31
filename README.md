@@ -46,25 +46,7 @@ I enjoy exploring how things work, learning new technologies and developing prac
 
 </div>
 
-## GitHub Overview
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Arifi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Arifi&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/Mohammed-Arifi">
-  <img src="https://komarev.com/ghpvc/?username=Mohammed-Arifi&style=flat-square&color=grey&label=PROFILE+VIEWS" />
-</a>
-
-<br/><br/>
 
 *Learning something new. Building something meaningful.*
 
